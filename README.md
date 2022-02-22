@@ -1,4 +1,4 @@
-### Ingeniero de sistemas informáticos - Frontend developer. Siempre en la búsqueda de conocimiento
+### Ingeniero de sistemas informáticos - Frontend developer.
 <!--
 **Palo23/Palo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
